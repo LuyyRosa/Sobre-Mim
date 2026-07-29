@@ -4,7 +4,7 @@ p{
     text-align: start;
 }
 h1{
-    text-align: start;
+    text-align: center;
     font-size: 30px;
     color: #c20114;
 }
@@ -14,8 +14,44 @@ h2{
     color: #c20114;
 }
 body{
-    background-color:#c7d6d5
+    background-color:black
 }
 table{
     color: #c20114;
+}
+header{
+    background-color: whitesmoke;
+    box-shadow: 10px 10px 5px red;
+    padding: 50px;
+    text-align: center;
+}
+a{
+    justify-content: center;
+    
+}
+.SOBRE {
+     text-align: center;
+    font-size: medium;   
+}
+.COISAS{
+    text-align: center;
+    font-size: medium;
+}
+
+table{
+    padding: 100px;
+    font-size: 55px;
+    background-color: whitesmoke;
+    box-shadow:15px 15px 10px red;
+    text-align: center;
+    margin: none 0px;
+  
+}
+td{
+    padding: 13px;
+    font-size: 25px;
+}
+tr{
+    padding: 25px;
+    font-size: 25px; 
 }
