@@ -1,0 +1,32 @@
+.Rosa{
+    border: 5px 5px 10px white;
+    background-color: red;
+    width: 500px;
+    height: 500px;
+    justify-content: end;
+    border:5px 5px 10px;
+    display: flex;
+    flex-direction: row-reverse;
+
+
+    
+    
+}
+.Branco{
+    display: flex;
+    color: white;
+    justify-content: end;
+
+    
+}
+.Preto{
+    display: flex;
+    justify-content: end;
+    color: yellow;
+}
+.amerelo{
+    display: flex;
+    justify-content: end;
+    color: black;
+
+}
