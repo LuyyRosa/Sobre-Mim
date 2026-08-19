@@ -15,9 +15,7 @@
 .Branco{
     display: flex;
     color: white;
-    justify-content: end;
-
-    
+    justify-content: end;   
 }
 .Preto{
     display: flex;
@@ -28,5 +26,10 @@
     display: flex;
     justify-content: end;
     color: black;
-
 }
+.trikas{
+    display: flex;
+    align-items: center;
+    width: 150px;   
+}   
+
